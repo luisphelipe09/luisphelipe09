@@ -1,8 +1,17 @@
-## Olá!! Eu sou Luis Phelipe 👋
-### Estudante de Sistemas de Informação
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Luis%20Phelipe&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Estudante%20de%20Sistemas%20de%20Informa%C3%A7%C3%A3o&descAlignY=58&descSize=20" alt="Banner" width="100%">
+</div>
 
-- 🔭 Atualmente estou cursando ensino superior
-- 🌱 Atualmente estou aprendendo Html, CSS e JavaScript ...
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Aprendendo+HTML%2C+CSS+e+JavaScript;Dev+em+forma%C3%A7%C3%A3o" alt="Typing SVG">
+</div>
+
+<br>
+
+## 👋 Olá!! Eu sou Luis Phelipe
+
+- 🎓 Atualmente estou cursando ensino superior em Sistemas de Informação
+- 🌱 Atualmente estou aprendendo HTML, CSS e JavaScript
 - 😄 Pronomes: ele/dele
 
 ## 🛠️ Tecnologias
@@ -27,3 +36,7 @@
   <a href="https://discord.gg/xHMsgkCH"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://www.linkedin.com/in/luis-phelipe-ba21023a6/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer" width="100%" alt="">
