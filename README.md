@@ -23,12 +23,6 @@
   <img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=luisphelipe09&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luisphelipe09&layout=compact&theme=dark)
-
 ## 📫 Contato
 
 <div>
